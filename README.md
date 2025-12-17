@@ -1,8 +1,9 @@
 
 <h1 align="center">
   <br>
-  <img src="https://github.com/user-attachments/assets/bc93aada-daeb-488e-9b92-5922e274b776" alt="logo" width="300">
- 
+  <img src="https://github.com/user-attachments/assets/f331bcfd-5267-49fd-84dc-fea592988bac" alt="logo" width="300">
+
+
  
   <br>
   Spotify → YouTube Playlist Converter
