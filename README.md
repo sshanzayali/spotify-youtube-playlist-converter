@@ -1,4 +1,4 @@
-
+![demo1](https://github.com/user-attachments/assets/663a741f-4935-4ca4-b589-30f8f9fa3f55)
 <h1 align="center">
   <br>
   <img src="https://github.com/user-attachments/assets/f331bcfd-5267-49fd-84dc-fea592988bac" alt="logo" width="300">
@@ -27,7 +27,7 @@
   <a href="#links">Links</a>
 
   
-![demo2](https://github.com/user-attachments/assets/25192262-1a27-401f-abc2-ce9f8ec99876)
+![demo1](https://github.com/user-attachments/assets/41e71949-d582-42e6-ad05-70abb5a9f681)
 
 
 </p>
