@@ -57,7 +57,7 @@ pip install -r requirements.txt
 ```
 
 ### 3. Spotify API setup
-Create a Spotify Developer app and add the following Redirect URI:
+Create a <a href="https://developer.spotify.com/documentation/web-api/concepts/apps">Spotify Developer app</a> and add the following Redirect URI:
 http://127.0.0.1:8000/callback
 
 Create a `.env` file in the project root:
