@@ -46,7 +46,7 @@
 
 
 ### 1. Clone the repository
-git clone [https://github.com/yourusername/spotify-youtube-playlist-converter](https://github.com/sshanzayali/spotify-youtube-playlist-converter.git)
+git clone [https://github.com/sshanzayali/spotify-youtube-playlist-converter.git](https://github.com/sshanzayali/spotify-youtube-playlist-converter.git)
 ```bash
 cd spotify-youtube-playlist-converter
 ```
