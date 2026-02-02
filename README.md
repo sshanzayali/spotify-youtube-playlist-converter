@@ -75,9 +75,9 @@ Download `client_secret.json` and place it in the project root.
 python gui.py
 
 ### 6. Convert a playlist
-• Paste a Spotify playlist URL
-• Enter a YouTube playlist name  
-• Click "Convert Playlist"
+- Paste a Spotify playlist URL
+- Enter a YouTube playlist name  
+- Click "Convert Playlist"
 
 
 ## Credits
